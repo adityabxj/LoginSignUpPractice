@@ -1,0 +1,80 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    border: 0px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    background-image: url(img3.jpg);
+    background-size:cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    color: white;
+    font-size: large;
+}
+
+#container{
+    padding: 5% 2% 5% 3%;
+    margin:  8% 35% 5% 28%;
+    background-color: aqua;
+    height: 40%;
+    width: 40%;
+    border-radius: 25px;
+    border: rgb(23, 23, 23) 2px solid;
+    box-shadow: 10px 10px 5px rgb(0,0,0,0.5);
+    background-image: url(img4.jpg);
+}
+
+form{
+    background-image: none;
+}
+
+label{
+    margin-left: 10px;
+    background-image: none;
+}
+
+#email{
+    margin-left: 13%;
+    margin-bottom: 7.5vh;
+    border: rgb(18, 161, 233) 2px solid;
+}
+
+#pass{
+    margin-left: 7%;
+    margin-bottom: 7.5vh;
+    border: rgb(18, 161, 233) 2px solid;
+}
+
+#phone{
+    margin-left: 6%;
+    border: rgb(18, 161, 233) 2px solid;
+}
+
+.login{
+    margin-bottom: 25px;
+    height: 6vh;
+    width: 60%;
+    border-radius: 25px;
+    background-image: none;
+    background-image: url(img5.jpg);
+}
+
+button{
+    border: rgb(18, 161, 233) 2px solid;
+    height: 40px;
+    width: 30%;
+    border-radius: 25px;
+    margin-top: 6%;
+    margin-left: 35%;
+    background-image: url(img5.jpg);
+}
+
+#signup{
+    background-image: none;
+    margin-top: 10%;
+    text-align: center;
+}
+
+a{
+    background-image: none;
+    color:rgb(5, 255, 255);
+}
